@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Partners List feature.
+ */
+
+include_once 'wills_partners_list.features.inc';
